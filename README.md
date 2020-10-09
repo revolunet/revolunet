@@ -10,12 +10,6 @@
 
 - 📫 How to reach me **julien@bouquillon.com**
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revolunet" alt="revolunet" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/revolunet" target="blank"><img src="https://img.shields.io/twitter/follow/revolunet?logo=twitter&style=for-the-badge" alt="revolunet" /></a> </p>
-
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/revolunet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="revolunet" height="30" width="40" /></a>
