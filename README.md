@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolunet&layout=compact" alt="revolunet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revolunet&show_icons=true" alt="revolunet" /></p>
+
+[![Source Karma badge for @revolunet](https://sourcekarma-og.vercel.app/api/revolunet/github)](https://sourcekarma.vercel.app/revolunet)
