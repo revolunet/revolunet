@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on **public websites, apps and infra**
 
-- 🌱 I’m currently learning **humans**
-
-- 👯 I’m looking to collaborate on **open-source, open-data, p2p and decentralisation**
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **julien@bouquillon.com**
