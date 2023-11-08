@@ -18,7 +18,7 @@
 </p>
 <p align="left">
 
-![metrics](https://github.com/revolunet/revolunet/blob/master/github-metrics.svg)
+![metrics](https://github.com/revolunet/revolunet/blob/main/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=revolunet&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 

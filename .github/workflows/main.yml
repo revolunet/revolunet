@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */2 * * *"}]
+  schedule: [{ cron: "0 */2 * * *" }]
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -11,11 +11,11 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Ornias1993
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: revolunet
           use_prebuilt_image: yes
           template: classic
-          config_timezone: Europe/Amsterdam
+          config_timezone: Europe/Paris
           plugin_lines: yes
           plugin_stargazers: yes
           config_padding: 16, 48
@@ -28,11 +28,11 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           # habits
-          plugin_habits: yes
-          plugin_habits_from: 1000       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
+          plugin_habits: no
+          plugin_habits_from: 1000 # Use 200 events to compute habits
+          plugin_habits_days: 30 # Keep only events from last 14 days
+          plugin_habits_facts: yes # Display facts section
+          plugin_habits_charts: yes # Display charts section
           # reactions
           plugin_reactions: yes
           plugin_reactions_display: absolute
@@ -43,6 +43,6 @@ jobs:
           plugin_followup_sections: repositories, user
           # achievements
           plugin_achievements: yes
-          plugin_achievements_threshold: B       # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+          plugin_achievements_threshold: B # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes # Display unlocked secrets achievements
+          plugin_achievements_limit: 0 # Display all unlocked achievement matching threshold and secrets params
