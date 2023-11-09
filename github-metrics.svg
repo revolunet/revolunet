@@ -840,7 +840,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 17.5k out of 58.5m repositories</span>
+                                    <span class="gh">ranked 17.5k out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2499 stars</div>
                             </div>
@@ -958,7 +958,7 @@ See also: Get distinct values of Queryset by field
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 19:04:31 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Nov 2023, 21:04:22 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
