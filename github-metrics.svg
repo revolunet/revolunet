@@ -607,7 +607,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 5.76k out of 123m users</span>
+                                    <span class="gh">ranked 5.76k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 614 public repositories</div>
                             </div>
@@ -771,7 +771,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 5.92k out of 123m users</span>
+                                    <span class="gh">ranked 5.92k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 1016 users</div>
                             </div>
@@ -840,7 +840,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 17.6k out of 55.6m repositories</span>
+                                    <span class="gh">ranked 17.6k out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2499 stars</div>
                             </div>
@@ -958,7 +958,7 @@ See also: Get distinct values of Queryset by field
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Nov 2023, 07:04:30 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Nov 2023, 09:04:37 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
