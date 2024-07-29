@@ -771,7 +771,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 6.61k out of 141m users</span>
+                                    <span class="gh">ranked 6.62k out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 1043 users</div>
                             </div>
@@ -999,7 +999,7 @@ See also: Get distinct values of Queryset by field
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jul 2024, 06:04:07 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jul 2024, 08:04:31 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
