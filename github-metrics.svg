@@ -607,7 +607,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 5.86k out of 145m users</span>
+                                    <span class="gh">ranked 5.87k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 648 public repositories</div>
                             </div>
@@ -663,7 +663,7 @@ See also: Get distinct values of Queryset by field
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="168.43333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="169.46666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -685,7 +685,7 @@ See also: Get distinct values of Queryset by field
                                     <span class="prefix">Master</span>
                                     gister
                                 </div>
-                                <div class="text">Published 263 gists</div>
+                                <div class="text">Published 264 gists</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -881,7 +881,7 @@ See also: Get distinct values of Queryset by field
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 19.8k out of 221m repositories</span>
+                                    <span class="gh">ranked 19.8k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2512 stars</div>
                             </div>
@@ -999,7 +999,7 @@ See also: Get distinct values of Queryset by field
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Sept 2024, 14:05:02 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Sept 2024, 16:03:34 (timezone Europe/Paris) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
